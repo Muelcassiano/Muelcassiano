@@ -10,6 +10,7 @@ Atualmente estou em processo de migração de carreira para área de dados, port
 
 Gosto de passar meu tempo estudando, vendo vídeos e podcasts sobre astronomia, tecnologia e Inteligência Artificial, ler uma boa saga de livros de ficção cientifica, suspense e explorações espaciais.
 
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/samuel-a-36959140/)
