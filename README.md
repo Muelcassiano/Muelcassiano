@@ -4,11 +4,11 @@
 
 Olá! Eu sou um Facilitador, apaixonado por Dados e Tecnologia.
 
-Formado em Gestão Pública, e com MBE em Business Engineering pela Universidade Federal de São Carlos (UFSCAR) em andamento.
+Formado em Gestão Pública, e com MBE em Business Engineering pela Universidade Federal de São Carlos UFSCAR - (Pós trancada em 2025).
 
-Atualmente estou em processo de migração de carreira para área de dados, portanto também estou cursando Bacharelado em Ciência de Dados na Universidade Virtual do Estado de São Paulo (UNIVESP).
+Atualmente estou cursando Bacharelado em Ciência de Dados na Universidade Virtual do Estado de São Paulo (UNIVESP).
 
-Gosto de passar meu tempo estudando, vendo vídeos e podcasts sobre astronomia, tecnologia e Inteligência Artificial, ler uma boa saga de livros de ficção cientifica, suspense e explorações espaciais.
+Gosto de passar meu tempo estudando, desenvolvendo projetos que resolvem problemas reais, vendo vídeos e podcasts sobre astronomia, tecnologia e Inteligência Artificial e ler uma boa saga de livros de ficção cientifica, suspense e explorações espaciais.
 
 
 ## Conecte-se comigo
